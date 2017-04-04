@@ -1,3 +1,5 @@
+//类似于Mimikatz的Linux Hash Dump工具
+
 # mimipenguin
 A tool to dump the login password from the current linux desktop user. Adapted from the idea behind the popular Windows tool mimikatz. 
 * Special thanks to pugilist for cleaning up PID extraction and testing.
